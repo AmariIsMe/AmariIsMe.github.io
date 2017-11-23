@@ -8,9 +8,9 @@ h2{
     
 }
 header{
-    text-align: center;
+	text-align: center;
 	border-color:    ;
-    padding:20px 0px 0px 0px;
+	padding:20px 0px 0px 0px;
     margin:  40px 0px 0px 0px;
     background:url("images/world.jpg");
     
@@ -23,8 +23,9 @@ p{
     color:#e88c5f;
     
 }
-body{
-    background-color:#e0cf86 ;
+body{	
+	background-color:#e0cf86 ;
+	text-align:center;
 }
 ul{
     padding: 0px 110px 0px 110px;

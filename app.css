@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    color:#99833e  ;
+    
 }
 h2{
     color:#99833e ;
@@ -38,4 +38,5 @@ ul{
 }
 .title{
 	color:#e88c5f;
+	font-size: 75px;
 }

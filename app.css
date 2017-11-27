@@ -27,8 +27,8 @@ p{
 }
 body{	
 	background-color:#e0cf86 ;
-	margin: 0;
-	max-margin:600;
+	margin: 0 auto;
+	max-margin:600px;
 	
 ul{
     padding: 0px 110px 0px 110px;

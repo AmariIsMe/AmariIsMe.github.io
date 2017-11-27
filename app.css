@@ -27,8 +27,7 @@ p{
 }
 body{	
 	background-color:#e0cf86 ;
-	margin: 0 auto;
-	max-margin:600px;
+}
 	
 ul{
     padding: 0px 110px 0px 110px;
@@ -40,3 +39,7 @@ ul{
 	color:#e88c5f;
 	font-size: 75px;
 }
+article{
+	margin: 0 auto;
+	max-margin:600px;
+	}

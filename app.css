@@ -41,6 +41,6 @@ ul{
 }
 article{
 	margin: 0 auto;
-	width:600px;
+	max-width:500px;
 	padding:20px;
 	}

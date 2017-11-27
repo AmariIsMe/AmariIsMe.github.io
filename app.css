@@ -21,14 +21,14 @@ li{
 }
 p{
 	color:#e88c5f;
-	text-align: justify;
+	text-align: center;
+	padding:10px 10px 10px 10px;
     
 }
 body{	
 	background-color:#e0cf86 ;
 	text-align:justify;
-	padding: 10px 10px 10px 10px; 
-}
+	
 ul{
     padding: 0px 110px 0px 110px;
 }

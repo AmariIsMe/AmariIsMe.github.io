@@ -27,6 +27,10 @@ p{
 }
 body{	
 	background-color:#e0cf86 ;
+	margin-top: 0px;
+	margin-right:0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
 }
 	
 ul{
@@ -48,5 +52,5 @@ article{
 img{
 	border: 3px;
 	border-style: solid;
-	color:  rgb(20, 132, 79); 
+	color:  rgb(120, 132, 79); 
 }

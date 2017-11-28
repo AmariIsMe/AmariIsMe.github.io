@@ -1,7 +1,7 @@
 h1{
     text-align: center;
-    
-}
+	color:#99833e;
+	}
 h2{
     color:#99833e ;
     font-size:1cm
@@ -34,6 +34,7 @@ ul{
 }
 .hlinks{
     display: inline;
+	color: white;
 }
 .title{
 	color:#e88c5f;
@@ -44,3 +45,8 @@ article{
 	max-width:500px;
 	padding:20px;
 	}
+img{
+	border: 3px;
+	border-style: solid;
+	color:  rgb(20, 132, 79); 
+}
